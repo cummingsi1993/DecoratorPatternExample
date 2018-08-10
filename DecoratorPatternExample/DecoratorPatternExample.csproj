@@ -49,7 +49,6 @@
   <ItemGroup>
     <Compile Include="BaseEntity.cs" />
     <Compile Include="Builders\RepositoryBuilder.cs" />
-    <Compile Include="Class1.cs" />
     <Compile Include="Interfaces\IAuthorizer.cs" />
     <Compile Include="Interfaces\IDatastoreSelector.cs" />
     <Compile Include="Interfaces\ILogger.cs" />
